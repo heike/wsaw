@@ -5,12 +5,12 @@ Which scans and when
 
 ### LA-PD
 
-re-export data for the following bullets - also make sure that the data now are actually different. If not, re-scan:
-604-D
-606-B
-608-C
-609-A, B, C
-609-D
+re-export data for the following bullets - also make sure that the data now are actually different. If not, re-scan: <br>
+604-D <br>
+606-B <br>
+608-C <br>
+609-ABC <br>
+609-D <br>
 
 ### St Louis
 
@@ -31,11 +31,11 @@ rescan barrel 5, 9
 
 ### LAPD
 
-FAU 613 ABCD
-FAU 614 ABCD
-FAU 615 D
-FAU 616 ABCD
-FAU 617 ABCD
+FAU 613 ABCD <br>
+FAU 614 ABCD <br>
+FAU 615 D <br>
+FAU 616 ABCD <br>
+FAU 617 ABCD <br>
 
 ### Houston
 
