@@ -14,29 +14,35 @@ re-export data for the following bullets - also make sure that the data now are 
 
 ### St Louis
 
-Firearm A, Bullets 1-800
-
-### User management
-
-AM: please check bullets from round 2 - files are identical
-
-### Hamby-44
-
-rescan barrel 5, 9
-
+Firearm B, Bullets 1-800
 
 ### shooting range (white boxes)
 
-## last week
+# Done :)
+
+### shooting range (white boxes)
+
+Box 1 123<br>
+Box 2 1
 
 ### LAPD
 
+FAU 612 A  D <br>
 FAU 613 ABCD <br>
 FAU 614 ABCD <br>
 FAU 615 D <br>
 FAU 616 ABCD <br>
 FAU 617 ABCD <br>
+FAU 618 ABCD <br>
+FAU 619 ABCD <br>
+FAU 620  BCD <br>
+FAU 621 ABC <br>
+FAU 622 ABCD <br>
 
 ### Houston
 
 Group 1, U10, U61
+
+### Hamby-44
+
+rescan barrel 5, 9
